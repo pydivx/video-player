@@ -12,11 +12,6 @@ Welcome to the Video Player project! In this repository, we’ve built a basic v
 ### CSS: Styling to make it look sleek and user-friendly.
 ### JavaScript: Interactivity and functionality.
 
-# Getting Started
-I. Clone this repository to your local machine.
-II. Open index.html in your browser.
-III. Enjoy watching your videos!
-
 # Contributing
 We welcome contributions! If you’d like to improve the video player or add new features, feel free to submit a pull request.
 
